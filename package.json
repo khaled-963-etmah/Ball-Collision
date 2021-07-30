@@ -1,0 +1,49 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "classnames": "^2.3.1",
+    "csstype": "^3.0.8",
+    "dom-helpers": "^5.2.1",
+    "gh-pages": "^3.2.3",
+    "invariant": "^2.2.4",
+    "jquery": "^3.6.0",
+    "js-tokens": "^4.0.0",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "loose-envify": "^1.4.0",
+    "object-assign": "^4.1.1",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.7.2",
+    "prop-types-extra": "^1.1.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.0",
+    "react-dom": "^17.0.2",
+    "react-is": "^16.13.1",
+    "react-lifecycles-compat": "^3.0.4",
+    "react-overlays": "^5.0.1",
+    "react-transition-group": "^4.4.1",
+    "regenerator-runtime": "^0.13.7",
+    "scheduler": "^0.20.2",
+    "three": "^0.129.0",
+    "uncontrollable": "^7.2.1",
+    "warning": "^4.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaled-963-etmah/Ball-Collision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaled-963-etmah/Ball-Collision/issues"
+  },
+  "homepage": "https://github.com/khaled-963-etmah/Ball-Collision#readme"
+}
