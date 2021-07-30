@@ -1,5 +1,5 @@
-//import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.118/build/three.module.js';
-import * as THREE from '../node_modules/three/src/Three.js';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.118/build/three.module.js';
+//import * as THREE from '../node_modules/three/src/Three.js';
 import Ball       from './objects/ball.js';
 import Box        from './objects/box.js';
 import Panel      from './inviroment/panel.js';
